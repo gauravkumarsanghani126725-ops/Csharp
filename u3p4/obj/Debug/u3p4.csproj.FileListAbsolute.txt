@@ -1,0 +1,7 @@
+E:\BCA 4 C\C#\ALL_UNIT_SOLUTION\u3p4\bin\Debug\u3p4.exe.config
+E:\BCA 4 C\C#\ALL_UNIT_SOLUTION\u3p4\bin\Debug\u3p4.exe
+E:\BCA 4 C\C#\ALL_UNIT_SOLUTION\u3p4\bin\Debug\u3p4.pdb
+E:\BCA 4 C\C#\ALL_UNIT_SOLUTION\u3p4\obj\Debug\u3p4.csproj.AssemblyReference.cache
+E:\BCA 4 C\C#\ALL_UNIT_SOLUTION\u3p4\obj\Debug\u3p4.csproj.CoreCompileInputs.cache
+E:\BCA 4 C\C#\ALL_UNIT_SOLUTION\u3p4\obj\Debug\u3p4.exe
+E:\BCA 4 C\C#\ALL_UNIT_SOLUTION\u3p4\obj\Debug\u3p4.pdb
