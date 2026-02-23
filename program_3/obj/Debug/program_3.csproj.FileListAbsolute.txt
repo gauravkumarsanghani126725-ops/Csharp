@@ -1,0 +1,7 @@
+E:\BCA 4 C\C#\ALL_UNIT_SOLUTION\program_3\obj\Debug\program_3.csproj.AssemblyReference.cache
+E:\BCA 4 C\C#\ALL_UNIT_SOLUTION\program_3\obj\Debug\program_3.csproj.CoreCompileInputs.cache
+E:\BCA 4 C\C#\ALL_UNIT_SOLUTION\program_3\bin\Debug\program_3.exe.config
+E:\BCA 4 C\C#\ALL_UNIT_SOLUTION\program_3\bin\Debug\program_3.exe
+E:\BCA 4 C\C#\ALL_UNIT_SOLUTION\program_3\bin\Debug\program_3.pdb
+E:\BCA 4 C\C#\ALL_UNIT_SOLUTION\program_3\obj\Debug\program_3.exe
+E:\BCA 4 C\C#\ALL_UNIT_SOLUTION\program_3\obj\Debug\program_3.pdb
