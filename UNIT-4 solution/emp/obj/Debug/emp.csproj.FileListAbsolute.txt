@@ -1,0 +1,7 @@
+E:\BCA 4 C\C#\UNIT-4 solution\emp\bin\Debug\emp.exe.config
+E:\BCA 4 C\C#\UNIT-4 solution\emp\bin\Debug\emp.exe
+E:\BCA 4 C\C#\UNIT-4 solution\emp\bin\Debug\emp.pdb
+E:\BCA 4 C\C#\UNIT-4 solution\emp\obj\Debug\emp.csproj.AssemblyReference.cache
+E:\BCA 4 C\C#\UNIT-4 solution\emp\obj\Debug\emp.csproj.CoreCompileInputs.cache
+E:\BCA 4 C\C#\UNIT-4 solution\emp\obj\Debug\emp.exe
+E:\BCA 4 C\C#\UNIT-4 solution\emp\obj\Debug\emp.pdb
