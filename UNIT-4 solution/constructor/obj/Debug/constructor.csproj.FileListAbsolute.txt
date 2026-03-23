@@ -1,0 +1,7 @@
+E:\BCA 4 C\C#\UNIT-4 solution\constructor\bin\Debug\constructor.exe.config
+E:\BCA 4 C\C#\UNIT-4 solution\constructor\bin\Debug\constructor.exe
+E:\BCA 4 C\C#\UNIT-4 solution\constructor\bin\Debug\constructor.pdb
+E:\BCA 4 C\C#\UNIT-4 solution\constructor\obj\Debug\constructor.csproj.AssemblyReference.cache
+E:\BCA 4 C\C#\UNIT-4 solution\constructor\obj\Debug\constructor.csproj.CoreCompileInputs.cache
+E:\BCA 4 C\C#\UNIT-4 solution\constructor\obj\Debug\constructor.exe
+E:\BCA 4 C\C#\UNIT-4 solution\constructor\obj\Debug\constructor.pdb
